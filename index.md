@@ -6,10 +6,10 @@
  
 ### Private Common Repos
  * **[Rules of Engagement](https://github.com/OpenManufacturingPlatform/rules-of-engagement)** / [Pull Requests]() /[Issues](https://github.com/OpenManufacturingPlatform/rules-of-engagement/issues) / [Releases](https://github.com/OpenManufacturingPlatform/rules-of-engagement/releases)
- * **[Templates](https://github.com/OpenManufacturingPlatform/templates)**
+ * **[Templates](https://github.com/OpenManufacturingPlatform/templates)** / [Issues](https://github.com/OpenManufacturingPlatform/templates/issues)
  
 ### Working Group Repos
- * **iot-connectivity** [Repo]() (private) / [Issues]() / [Documentation]()
+ * **iot-connectivity** - [Repo]() (private) / [Issues]() / [Documentation]()
  
  
   
