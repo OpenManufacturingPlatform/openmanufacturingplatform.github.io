@@ -4,9 +4,9 @@
  * **Dictionary** -
  [Repo]() / [Pull Requests]() / [Issues]() 
  
-### Private Repos
- * **Common** - 
- [Rules of Engagement](https://github.com/OpenManufacturingPlatform/rules-of-engagement) / [Pull Requests]() /[Issues](https://github.com/OpenManufacturingPlatform/rules-of-engagement/issues) / [Releases](https://github.com/OpenManufacturingPlatform/rules-of-engagement/releases)
+### Private Common Repos
+ * **[Rules of Engagement](https://github.com/OpenManufacturingPlatform/rules-of-engagement)** / [Pull Requests]() /[Issues](https://github.com/OpenManufacturingPlatform/rules-of-engagement/issues) / [Releases](https://github.com/OpenManufacturingPlatform/rules-of-engagement/releases)
+ * **[Templates](https://github.com/OpenManufacturingPlatform/templates) 
  
 ### Working Group Repos
  * **iot-connectivity** -
