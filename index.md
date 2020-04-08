@@ -2,7 +2,7 @@
  
 ### Public Repos
  * **Dictionary** -
- [Repo]() / [Pull Requests]() / [Issues]() 
+ [Repo](https://github.com/OpenManufacturingPlatform/dictionary) / [Issues](https://github.com/OpenManufacturingPlatform/dictionary) 
  
 ### Private Common Repos
  * **[Rules of Engagement](https://github.com/OpenManufacturingPlatform/rules-of-engagement)** / [Pull Requests]() /[Issues](https://github.com/OpenManufacturingPlatform/rules-of-engagement/issues) / [Releases](https://github.com/OpenManufacturingPlatform/rules-of-engagement/releases)
