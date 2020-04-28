@@ -8,7 +8,7 @@
  
 ### Working Groups Repositories
 #### Iot Connectivity WG
- * **iot-connectivity** - [Repo](https://github.com/OpenManufacturingPlatform/iot_connectivity) `private` | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iot_connectivity/releases)
+ * **iot-connectivity** `private` - [Repo](https://github.com/OpenManufacturingPlatform/iot_connectivity) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iot_connectivity/releases)
  
  
   
