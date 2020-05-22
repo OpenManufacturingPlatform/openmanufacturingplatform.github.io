@@ -10,6 +10,7 @@
 #### Iot Connectivity WG
  * **iot-connectivity** `private` - [Repo](https://github.com/OpenManufacturingPlatform/iot_connectivity) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iot_connectivity/releases)
  
- 
+#### Semantic Data Structuring WG
+ * **semantic-data** `private` - [Repo](https://github.com/OpenManufacturingPlatform/semantic-data) | [Issues](https://github.com/OpenManufacturingPlatform/semantic-data/issues) | [Releases](https://github.com/OpenManufacturingPlatform/semantic-data/releases) 
   
  
