@@ -7,3 +7,5 @@
 #### Semantic Data Structuring
  * **BAMM Aspect Meta Model** | [v1.0.0 documentation](https://openmanufacturingplatform.github.io/sds-bamm-aspect-meta-model/bamm-specification/v1.0.0/index.html)
  
+#### Manufacturing Reference Architecture
+ * **Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations** | [whitepaper](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/05/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf)
