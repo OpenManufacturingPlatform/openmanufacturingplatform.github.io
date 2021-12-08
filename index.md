@@ -6,7 +6,9 @@
  * **Edge Computing in the Context of Open Manufacturing** | [Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/02_Edge_Computing_in_the_Context_of_Open_Manufacturing) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/releases) | [PDF](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/07/OMP-IIoT-Connectivity-Edge-Computing-20210701.pdf)
  
 #### Semantic Data Structuring
- * **BAMM Aspect Meta Model** | [v1.0.0 documentation](https://openmanufacturingplatform.github.io/sds-bamm-aspect-meta-model/bamm-specification/v1.0.0/index.html)
+ * **BAMM Aspect Meta Model** | [v1.0.0 documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v1.0.0/index.html)
+ * **SDS SDK** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Developer Guide](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/dev-snapshot/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
+ * **BAMM CLI** | [Documentation and Download](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/dev-snapshot/tooling-guide/bamm-cli.html)
  
 #### Manufacturing Reference Architecture
  * **Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations** | [Markdown](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | Release | [PDF](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/05/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf)
