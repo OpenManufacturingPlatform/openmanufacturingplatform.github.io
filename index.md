@@ -7,7 +7,7 @@
  
 #### Semantic Data Structuring
  * **BAMM Aspect Meta Model** | [v1.0.0 documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v1.0.0/index.html)
- * **SDS SDK** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Developer Guide](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
+ * **SDS SDK** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
  * **BAMM CLI** | [Documentation and Download](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/tooling-guide/bamm-cli.html)
  * **Aspect Model Editor (AME)** | <a href="https://github.com/OpenManufacturingPlatform/sds-aspect-model-editor/releases" target="_target"> Releases & Downloads</a> | <a href="https://openmanufacturingplatform.github.io/sds-documentation/ame-guide/4.0.0/introduction.html" target="_target">Documentation</a>
  
