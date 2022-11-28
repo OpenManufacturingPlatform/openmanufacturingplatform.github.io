@@ -8,7 +8,7 @@
 #### Semantic Data Structuring
 > The work on semantic data structuring is continued [here](https://github.com/eclipse-esmf).
  * **BAMM Aspect Meta Model** | [v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v2.0.0/index.html) | [Blog - BAMM 1.0](sds_blog_intro_BAMM.md) | [Blog - BAMM 2.0 ](sds_blog_BAMM_2_0.md)
- * **SDS SDK (Java)** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
+ * **SDS SDK (Java)** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing) | [Blog - SDK (Java)](sds_blog_BAMM_SDK.md)
  * **SDS Python Aspect Loader** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk-py-aspect-model-loader/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/python-sdk-guide/index.html)
  * **SDS JavaScript Aspect Loader** | [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk-js-aspect-model-loader/releases)
  * **BAMM CLI** | [Documentation and Download](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/tooling-guide/bamm-cli.html)
