@@ -12,7 +12,8 @@
 ## Semantic Data Structuring
 > The work on semantic data structuring is continued [here](https://github.com/eclipse-esmf).
 
-#### BAMM Aspect Meta Model 
+#### BAMM Aspect Meta Model
+
 [v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v2.0.0/index.html) | [Blog - BAMM 1.0](sds_blog_intro_BAMM.md) | [Blog - BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Blog - Tools & Techniques](sds_blog_tools_techniques.md)
  
 #### SDS SDK (Java)
