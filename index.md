@@ -17,3 +17,6 @@
  
 #### Manufacturing Reference Architecture
  * **Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations** | [Markdown](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | Release | [PDF](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/05/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf)
+
+### Test
+Open new GitHub page. [blog 1](blog1.md)
