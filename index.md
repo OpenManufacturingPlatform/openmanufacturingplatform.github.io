@@ -1,4 +1,6 @@
  > This platform addressed common industrial challenges such as machine connectivity and on-premises systems integration. It aims to significantly accelerate future industrial IoT developments, shorten time to value and drive production efficiencies while addressing common industrial challenges. It was dissolved end of 2022. Some of the work is continued (see comments for different working groups results)
+
+**Solving mutual challenges through open collaboration**: < a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/omp_accelerating_manufacturing_at_scale_061620.pdf" target="_blank">Accelerating Manufacturing Innovation at Scale</a>
  
 # Working Group Results
 ## Iot Connectivity
