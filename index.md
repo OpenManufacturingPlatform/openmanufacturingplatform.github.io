@@ -13,10 +13,10 @@
 > The work on semantic data structuring is continued [here](https://github.com/eclipse-esmf).
 
 ### BAMM Aspect Meta Model
-[v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v2.0.0/index.html) | [Blog - BAMM 1.0](sds_blog_intro_BAMM.md) | [Blog - BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Blog - Tools & Techniques](sds_blog_tools_techniques.md)
+[v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v2.0.0/index.html)
  
 ### SDS SDK (Java)
-[Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing) | [Blog - SDK (Java)](sds_blog_BAMM_SDK.md)
+[Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
  
 ### SDS Python Aspect Loader
  [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk-py-aspect-model-loader/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/python-sdk-guide/index.html)
@@ -28,10 +28,13 @@
 [Documentation and Download](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/tooling-guide/bamm-cli.html)
  
 ### Aspect Model Editor (AME)
-<a href="https://github.com/OpenManufacturingPlatform/sds-aspect-model-editor/releases" target="_target"> Releases and Downloads</a> | <a href="https://openmanufacturingplatform.github.io/sds-documentation/ame-guide/4.0.0/introduction.html" target="_target">Documentation</a> | [Blog - Tools & Techniques](sds_blog_tools_techniques.md)
+<a href="https://github.com/OpenManufacturingPlatform/sds-aspect-model-editor/releases" target="_target"> Releases and Downloads</a> | <a href="https://openmanufacturingplatform.github.io/sds-documentation/ame-guide/4.0.0/introduction.html" target="_target">Documentation</a>
 
 ### Whitepapers
-[Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf), [Blog - Industry 4.0](sds_blog_Industry_4_0.md) | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
+[Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf)  | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
+
+### Blogs
+[BAMM 1.0](sds_blog_intro_BAMM.md) | [BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Tools & Techniques](sds_blog_tools_techniques.md) | [SDK (Java)](sds_blog_BAMM_SDK.md) | [Blog - Industry 4.0](sds_blog_Industry_4_0.md)
  
 ## Manufacturing Reference Architecture
  
