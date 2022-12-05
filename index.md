@@ -34,14 +34,17 @@
 ### Aspect Model Editor (AME)
 <a href="https://github.com/OpenManufacturingPlatform/sds-aspect-model-editor/releases" target="_target"> Releases and Downloads</a> | <a href="https://openmanufacturingplatform.github.io/sds-documentation/ame-guide/4.0.0/introduction.html" target="_target">Documentation</a>
 
-### Whitepapers
+### SDS Whitepapers
 [Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf)  | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
 
-### Blogs
+### SDS Blogs
 [BAMM 1.0](sds_blog_intro_BAMM.md) | [BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Tools & Techniques](sds_blog_tools_techniques.md) | [SDK (Java)](sds_blog_BAMM_SDK.md) | [Blog - Industry 4.0](sds_blog_Industry_4_0.md)
  
 ## Manufacturing Reference Architecture
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
 
-[Markdown](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | Release | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">MRA Introduction</a> | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank"> Condition Monitoring</a>
+[Markdown](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues)
+
+### MRA Whitepapers
+<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">MRA Introduction</a> | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank"> Condition Monitoring</a>
