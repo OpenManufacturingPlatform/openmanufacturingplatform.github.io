@@ -2,16 +2,16 @@
 
 **Solving mutual challenges through open collaboration**: 
 
-< a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/omp_accelerating_manufacturing_at_scale_061620.pdf" target="_blank">Accelerating Manufacturing Innovation at Scale</a>
+<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/omp_accelerating_manufacturing_at_scale_061620.pdf" target="_blank">Accelerating Manufacturing Innovation at Scale</a>
  
 # Working Group Results
 ## Iot Connectivity
 
 ### Insights into Connecting Industrial IoT Assets White Paper  
-[Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/01_Insights_Into_Connecting_Industrial_IoT_Assets) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/tree/IIoT_Connectivity_Whitepaper) | [PDF](https://open-manufacturing.org/wp-content/uploads/sites/101/2020/12/OMP-IIoT-Connectivity-White-Paper-20201207.pdf)
+[Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/01_Insights_Into_Connecting_Industrial_IoT_Assets) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/tree/IIoT_Connectivity_Whitepaper) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/iot_conn/OMP-IIoT-Connectivity-White-Paper-20201207.pdf" target="_blank"> PDF</a>
 
 ### Edge Computing in the Context of Open Manufacturing 
-[Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/02_Edge_Computing_in_the_Context_of_Open_Manufacturing) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/releases) | [PDF](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/07/OMP-IIoT-Connectivity-Edge-Computing-20210701.pdf)
+[Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/02_Edge_Computing_in_the_Context_of_Open_Manufacturing) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/releases) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/iot_conn/OMP-IIoT-Connectivity-Edge-Computing-20210701.pdf" target="_blank">PDF</a>
  
 ## Semantic Data Structuring
 > The work on semantic data structuring is continued [here](https://github.com/eclipse-esmf).
