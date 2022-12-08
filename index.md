@@ -1,4 +1,5 @@
- > This platform addressed common industrial challenges such as machine connectivity and on-premises systems integration. It aims to significantly accelerate future industrial IoT developments, shorten time to value and drive production efficiencies while addressing common industrial challenges. It was dissolved end of 2022. Some of the work is continued (see comments for different working groups results)
+ > This platform addressed common industrial challenges such as machine connectivity and on-premises systems integration. It aims to significantly accelerate future industrial IoT developments, shorten time to value and drive production efficiencies while addressing common industrial challenges.
+ The OMP was dissolved end of 2022. The work of the SDS working group is continued in the [Eclipse Semantic Modeling Framework](https://projects.eclipse.org/projects/dt.esmf/developer)
 
 **Solving mutual challenges through open collaboration**: 
 
@@ -14,10 +15,11 @@
 [Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/02_Edge_Computing_in_the_Context_of_Open_Manufacturing) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/releases) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/iot_conn/OMP-IIoT-Connectivity-Edge-Computing-20210701.pdf" target="_blank">PDF</a>
  
 ## Semantic Data Structuring
-> The work on semantic data structuring is continued [here](https://github.com/eclipse-esmf).
+> **The work on semantic data structuring is continued in the [Eclipse Semantic Modeling Framework (ESMF)](https://projects.eclipse.org/projects/dt.esmf/developer).**
 
 ### BAMM Aspect Meta Model
-[v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v2.0.0/index.html)
+[v1.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/v1.0.0/index.html) |
+[v2.0.0 Documentation](https://openmanufacturingplatform.github.io/sds-documentation/bamm-specification/2.0.0/index.html)
  
 ### SDS SDK (Java)
 [Releases and Downloads](https://github.com/OpenManufacturingPlatform/sds-sdk/releases) | [Documentation](https://openmanufacturingplatform.github.io/sds-documentation/sds-developer-guide/index.html) | [Overview Maven Releases](https://mvnrepository.com/artifact/io.openmanufacturing)
@@ -38,10 +40,18 @@
 <a href="https://github.com/OpenManufacturingPlatform/sds-manufacturing-information-model/blob/main/README.md" target="_target"> Releases and Downloads</a>
 
 ### SDS Whitepapers
-[Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf)  | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
+[Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf) <!-- | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf) -->
 
 ### SDS Blogs
-[BAMM 1.0](sds_blog_intro_BAMM.md) | [BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Tools & Techniques](sds_blog_tools_techniques.md) | [SDK (Java)](sds_blog_BAMM_SDK.md) | [Blog - Industry 4.0](sds_blog_Industry_4_0.md) | [JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md) | [Information Model](sds_blog_I4_0_Core_Information_Model.md) | [Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
+[Introducing the BAMM Aspect Meta Model for Digital Twins](sds_blog_intro_BAMM.md) 
+
+[OMP BAMM 2.0 Helps Deliver on the Promise of Digital Twins](sds_blog_BAMM_2_0.md)
+
+[Beyond Code – tools and techniques for delivering better aspect models](sds_blog_tools_techniques.md) 
+
+[Introducing the first SDK for the BAMM Aspect Meta Model](sds_blog_BAMM_SDK.md)
+
+[Data Integration Challenges solved by Industry 4.0 Core Information Model](sds_blog_Industry_4_0.md) | [JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md) | [Information Model](sds_blog_I4_0_Core_Information_Model.md) | [Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
 ## Manufacturing Reference Architecture
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
