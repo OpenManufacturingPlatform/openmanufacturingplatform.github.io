@@ -42,7 +42,6 @@
 
 ### SDS Blogs
 [BAMM 1.0](sds_blog_intro_BAMM.md) | [BAMM 2.0 ](sds_blog_BAMM_2_0.md) | [Tools & Techniques](sds_blog_tools_techniques.md) | [SDK (Java)](sds_blog_BAMM_SDK.md) | [Blog - Industry 4.0](sds_blog_Industry_4_0.md) | [JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md) | [Information Model](sds_blog_I4_0_Core_Information_Model.md) | [Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
- 
 ## Manufacturing Reference Architecture
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
