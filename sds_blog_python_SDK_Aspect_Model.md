@@ -15,7 +15,7 @@ Additionally, Python is an open-source language, which means it is freely availa
 
 However, one of the main reasons Python is so prevalent in manufacturing is its ability to integrate easily with other systems and technologies. This allows aspect meta-models developed in Python to be easily integrated into existing manufacturing processes and systems, making it a valuable tool for optimizing and improving manufacturing operations.
 
-Python’s versatility, user-friendliness, extensive libraries and frameworks, open-source nature, and ability to easily integrate with other systems make it a natural language choice for the OMP SDS Working Group’s library of developer tools.
+Python's versatility, user-friendliness, extensive libraries and frameworks, open-source nature, and ability to easily integrate with other systems make it a natural language choice for the OMP SDS Working Group's library of developer tools.
 
 ### Where to Access the Python SDK Aspect Model Loader
 Developers can find the Python SDK Aspect Model Loader at https://github.com/OpenManufacturingPlatform/sds-sdk-py-aspect-model-loader/releases.
