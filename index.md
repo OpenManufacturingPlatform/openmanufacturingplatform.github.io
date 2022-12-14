@@ -58,6 +58,9 @@
 [Introducing the first SDK for the BAMM Aspect Meta Model](sds_blog_BAMM_SDK.md)
 
 [Introducing the BAMM Aspect Meta Model for Digital Twins](sds_blog_intro_BAMM.md)
+
+[Product Modeling with BAMM](sds_blog_product_modeling_with_BAMM.md)
+
 ## Manufacturing Reference Architecture
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
