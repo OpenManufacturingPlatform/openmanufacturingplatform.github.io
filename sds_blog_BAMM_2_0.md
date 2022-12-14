@@ -1,7 +1,7 @@
 ## OMP BAMM 2.0 Helps Deliver on the Promise of Digital Twins
 
 ### The Promise of Digital Twins
-Digital transformation is the reimagining of organizations in the digital age. It is commonly defined as the process of using digital technologies to create or modify organizational processes, technology, structure, and data processing and storage practices to meet changing market or regulatory demands.  Of the many technologies created to aid digital transformation, digital twins can be one of the most beneficial for increasing efficiency.
+(2021/12/21) - Digital transformation is the reimagining of organizations in the digital age. It is commonly defined as the process of using digital technologies to create or modify organizational processes, technology, structure, and data processing and storage practices to meet changing market or regulatory demands.  Of the many technologies created to aid digital transformation, digital twins can be one of the most beneficial for increasing efficiency.
 
 A digital twin is a digital representation of physical assets, devices, and systems within an organization.  The concept can be applied to almost any type of organization and allows for in-depth analysis to aid in decision-making in a virtual setting before implementation.  Gartner recommends creating a digital twin of your organization to help navigate digital transformation and reduce the risk of failure.
 

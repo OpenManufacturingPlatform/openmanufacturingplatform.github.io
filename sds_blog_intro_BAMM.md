@@ -2,7 +2,7 @@
 
 
 ### What is a digital twin?
-During their entire lifecycle, assets like sensors, vehicles, or machines are generating a great amount of manufacturing, production, and field data – the basis for all value-adding digital applications like condition monitoring or quality management. With increasing digitalization, the volume of data-producing components, as well as data-consuming applications, is continuously growing, as is the distance between sender and receiver.
+(2021/06/01) - During their entire lifecycle, assets like sensors, vehicles, or machines are generating a great amount of manufacturing, production, and field data – the basis for all value-adding digital applications like condition monitoring or quality management. With increasing digitalization, the volume of data-producing components, as well as data-consuming applications, is continuously growing, as is the distance between sender and receiver.
 
 That is why data needs context in order to be understood by all recipients. Here, Digital Twins come into play. They are digital representatives of the real asset, processing the incoming data into generally understandable information by coupling it to context and providing a standardized semantic model. Since not everyone needs the same set of information, a Digital Twin is a collection of various aspects of an asset. An aspect can, for example, bundle all information about machine malfunctions.
 

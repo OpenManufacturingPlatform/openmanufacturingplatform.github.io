@@ -43,15 +43,21 @@
 [Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf) | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
 
 ### SDS Blogs
-[Introducing the BAMM Aspect Meta Model for Digital Twins](sds_blog_intro_BAMM.md) 
+[Announcing the Semantic Stack JavaScript SDK and the JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md)
+
+[Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment](sds_blog_I4_0_Core_Information_Model.md)
+
+[Announcing the Semantic Stack Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
+
+[Beyond Code – tools and techniques for delivering better aspect models](sds_blog_tools_techniques.md)
+
+[Data Integration Challenges solved by Industry 4.0 Core Information Model](sds_blog_Industry_4_0.md)
 
 [OMP BAMM 2.0 Helps Deliver on the Promise of Digital Twins](sds_blog_BAMM_2_0.md)
 
-[Beyond Code – tools and techniques for delivering better aspect models](sds_blog_tools_techniques.md) 
-
 [Introducing the first SDK for the BAMM Aspect Meta Model](sds_blog_BAMM_SDK.md)
 
-[Data Integration Challenges solved by Industry 4.0 Core Information Model](sds_blog_Industry_4_0.md) | [JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md) | [Information Model](sds_blog_I4_0_Core_Information_Model.md) | [Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
+[Introducing the BAMM Aspect Meta Model for Digital Twins](sds_blog_intro_BAMM.md)
 ## Manufacturing Reference Architecture
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
