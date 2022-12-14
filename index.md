@@ -43,6 +43,7 @@
 [Semantic Data Structuring](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-Semantic-Data-Structuring-Whitepaper.pdf) | [Industry 4.0 Core Information Model](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Whitepaper_I4.0_Core_Information_Model.pdf) | [Product Modeling with BAMM](https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf)
 
 ### SDS Blogs
+[Manufacturing Challenges Solved by Semantic Data Structuring](sds_blog_manufacturing_challenges_solved_by_sds.md)
 [Announcing the Semantic Stack JavaScript SDK and the JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md)
 
 [Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment](sds_blog_I4_0_Core_Information_Model.md)
@@ -68,5 +69,5 @@
 ### Introducion to the OMP Manufacturing Reference Architecture
 [GitHub](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">PDF</a> | [Blog](mra_blog_what_is_mra.md)
 
-### 
-<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank"> Condition Monitoring</a>
+### Condition Monitoring
+[GitHub]() | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank">PDF</a> | [Blog]()
