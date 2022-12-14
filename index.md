@@ -77,4 +77,4 @@
 [Blog](mra_blog_core_capabilities_to_implement_mra.md)
 
 ### Condition Monitoring
-[GitHub]() | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank">PDF</a> | [Blog]()
+<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank">PDF</a> | [Blog](mra_blog_whitepaper_condition_monitoring.md)
