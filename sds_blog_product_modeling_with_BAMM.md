@@ -28,6 +28,6 @@ This paper shows how to define the semantics of a specific aspect of a digital t
 
 Conceptual Architecture
 
-Availability
+### Availability
 The SDS Product Aspect Modeling Whitepaper can be found at https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/blob/master/docs/sds/OMP-SDS-Product-Modeling-Whitepaper.pdf.
 
