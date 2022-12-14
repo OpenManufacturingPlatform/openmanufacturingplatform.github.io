@@ -5,3 +5,4 @@ This platform addressed common industrial challenges such as machine connectivit
 OMP Organization closed its business at the end of 2022. 
 
 > Note: Some of the work is continued (see comments for different working groups results)
+
