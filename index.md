@@ -13,6 +13,9 @@
 
 ### Edge Computing in the Context of Open Manufacturing 
 [Markdown](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/02_Edge_Computing_in_the_Context_of_Open_Manufacturing) | [Issues](https://github.com/OpenManufacturingPlatform/iot_connectivity_public/issues) | [Releases](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/releases) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/iot_conn/OMP-IIoT-Connectivity-Edge-Computing-20210701.pdf" target="_blank">PDF</a> | [Blog](iot_conn_blog_benefits_edge_computing.md)
+
+### OMP Industrial OPC UA Connector
+[GitHub](https://github.com/OpenManufacturingPlatform/iotcon-opc-ua-connector-dotnet) | [Blog](iot_conn_blog_omp_industrial_opc_ua_connector.md)
  
 ## Semantic Data Structuring
 > **The work on semantic data structuring is continued in the [Eclipse Semantic Modeling Framework (ESMF)](https://projects.eclipse.org/projects/dt.esmf).**
