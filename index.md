@@ -65,7 +65,10 @@
  
 > Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations.
 
-[Markdown](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues)
 
-### MRA Whitepapers
-<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">MRA Introduction</a> | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank"> Condition Monitoring</a>
+
+### Introducion to the OMP Manufacturing Reference Architecture
+[GitHub](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">PDF</a> | [Blog]()
+
+### 
+<a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank"> Condition Monitoring</a>
