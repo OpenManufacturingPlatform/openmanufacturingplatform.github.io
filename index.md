@@ -52,17 +52,17 @@
 
 [OMP BAMM 2.0 Helps Deliver on the Promise of Digital Twins](sds_blog_BAMM_2_0.md)
 
-[Announcing the Semantic Stack JavaScript SDK and the JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md)
-
-[Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment](sds_blog_I4_0_Core_Information_Model.md)
-
-[Announcing the Semantic Stack Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
-
-[Beyond Code – tools and techniques for delivering better aspect models](sds_blog_tools_techniques.md)
-
 [Data Integration Challenges solved by Industry 4.0 Core Information Model](sds_blog_Industry_4_0.md)
 
 [Introducing the BAMM Aspect Meta Model for Digital Twins](sds_blog_intro_BAMM.md)
+
+[Beyond Code – tools and techniques for delivering better aspect models](sds_blog_tools_techniques.md)
+
+[Announcing the Semantic Stack Python SDK Aspect Model Loader](sds_blog_python_SDK_Aspect_Model.md)
+
+[Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment](sds_blog_I4_0_Core_Information_Model.md)
+
+[Announcing the Semantic Stack JavaScript SDK and the JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md)
 
 [Product Modeling with BAMM](sds_blog_product_modeling_with_BAMM.md)
 
