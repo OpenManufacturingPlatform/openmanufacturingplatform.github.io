@@ -44,6 +44,7 @@
 
 ### SDS Blogs
 [Manufacturing Challenges Solved by Semantic Data Structuring](sds_blog_manufacturing_challenges_solved_by_sds.md)
+
 [Announcing the Semantic Stack JavaScript SDK and the JS SDK Aspect Model Loader](sds_blog_JS_SDK_Aspect_Model.md)
 
 [Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment](sds_blog_I4_0_Core_Information_Model.md)
