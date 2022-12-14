@@ -1,7 +1,7 @@
 ## Data Integration Challenges solved by Industry 4.0 Core Information Model
 
 ### Making Better Decisions with Data-Driven Insights
-The objective of Industry 4.0 is to leverage all available data to get the most accurate understanding of how the business went in the past, how it’s going in the present and how it will likely be in the future – driving better decisions at the right time. In other words, it aims to solve business questions with data-driven insights.
+(2022/05/31) - The objective of Industry 4.0 is to leverage all available data to get the most accurate understanding of how the business went in the past, how it’s going in the present and how it will likely be in the future – driving better decisions at the right time. In other words, it aims to solve business questions with data-driven insights.
 
 Typically, business users address business questions through applications that connect to and process the relevant data. These applications act as an interface between the business users and the insights extracted from the available data and relevant to the business question to solve.
 

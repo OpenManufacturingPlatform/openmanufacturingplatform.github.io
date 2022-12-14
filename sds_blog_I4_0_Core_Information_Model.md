@@ -1,7 +1,7 @@
 ## Benefits and Drawbacks of Aspect Meta-Models in the Manufacturing Environment
 
 ### Aspect Meta-Models and Digital Twins
-Aspect meta-models are a type of modeling language that can represent the different aspects of a digital twin, a digital representation of a physical system. In a manufacturing setting, a digital twin can be used to simulate the performance of a manufacturing system, such as a production line or a factory, to optimize its operation and predict its behavior.
+(2022/10/29) - Aspect meta-models are a type of modeling language that can represent the different aspects of a digital twin, a digital representation of a physical system. In a manufacturing setting, a digital twin can be used to simulate the performance of a manufacturing system, such as a production line or a factory, to optimize its operation and predict its behavior.
 
 The aspect meta-model approach allows for the representation of the different aspects of a digital twin, such as its physical components, their relationships, and the processes they perform, in a structured and modular way. This makes it possible to easily update and extend the digital twin as the manufacturing system evolves. For example, the aspect meta-model can be used to represent the different components of a production line, such as machines, conveyor belts, and sensors, and their interactions. This information can then be used to simulate the operation of the production line and identify potential bottlenecks or inefficiencies.
 
