@@ -23,3 +23,19 @@ There are many benefits of adopting a reference architecture for the digital tra
 1. Versatility – The MRA must allow for changes to product lines, designs, manufacturing locations to name just a few.
 
 <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank"><strong>Download the Whitepaper</strong></a>
+
+## Introducing the Open Manufacturing Platform’s Manufacturing Reference Architecture Working Group
+
+The mission of the MRA working group is to provide hands-on guidance on how to define a reference architecture in today’s heterogeneous manufacturing environment. This architecture serves the needs of concrete smart manufacturing use cases while taking new capabilities and new business models into account.
+
+Key areas of concern of the working group include data governance, cybersecurity, industrialization and productization, and enterprise deployment.  Deliverables from the group will include:
+
+* A collection of dedicated Use Case whitepapers that focuses on particular manufacturing challenges.
+
+* Technical Architecture whitepapers and blueprints that discuss specific architecture templates, features, application ranges, and implementation aspects and guidance.
+
+The first deliverable from the group is a whitepaper titled, *Introduction to the OMP Manufacturing Reference Architecture: General Approach & Design Considerations*.  The paper is free and available for download <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank"><strong>here</strong></a>
+
+Or on GitHub here: https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/tree/publication
+
+The paper serves as an introduction to the Open Manufacturing Platform’s (OMP) Manufacturing Reference Architecture (MRA) and will set the foundation for upcoming releases and new publications. It aims to give the reader the foundation to understand the general concept of the MRA within the OMP initiative, its benefits, approach, vision, goals, and scope.
