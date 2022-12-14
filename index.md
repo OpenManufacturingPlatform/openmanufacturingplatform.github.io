@@ -73,5 +73,8 @@
 ### Introducion to the OMP Manufacturing Reference Architecture
 [GitHub](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/blob/publication/Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md) | [Issues](https://github.com/OpenManufacturingPlatform/MRA-Architectural-Considerations/issues) | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf" target="_blank">PDF</a> | [Blog](mra_blog_what_is_mra.md)
 
+### Core Capabilities
+[Blob](mra_blog_core_capabilities_to_implement_mra.md)
+
 ### Condition Monitoring
 [GitHub]() | <a href="https://github.com/OpenManufacturingPlatform/openmanufacturingplatform.github.io/raw/master/docs/mra/OMP_Manufacturing_Reference_Achitecture_Condition_Monitoring.pdf" target="_blank">PDF</a> | [Blog]()
